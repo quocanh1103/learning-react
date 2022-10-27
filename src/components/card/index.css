@@ -1,0 +1,16 @@
+.card-body {
+  border: 1px solid black;
+  width: 50%;
+  height: fit-content;
+  padding-left: 10px;
+  border-radius: 5%;
+  line-height: 1;
+  
+}
+#status {
+  border-bottom: 2px solid black;
+  width: 80%;
+}
+select {
+  margin-bottom: 5px;
+}

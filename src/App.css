@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    margin-bottom: 10px;
+}
+.handle-head{
+    background-color: rgb(105, 211, 223);
+}
+.container-display{
+    display: flex;
+}
+.handle-sidebar{
+    border-right: 1px solid black;
+    width: 10%;
+    background-color: rgb(97, 132, 59);
+}
+.handle-card{
+    margin: 10px;
+}
+
