@@ -1,0 +1,13 @@
+form {
+  margin: 100px;
+  border: 1px solid brown;
+  width: 30%;
+  height: fit-content;
+}
+#handleForm {
+  width: 10px;
+  margin: 10px;
+}
+input{
+  margin: 10px;
+}

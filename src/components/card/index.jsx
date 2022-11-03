@@ -7,8 +7,7 @@ Card.propTypes = {};
 
 function Card({status}) {
   const [option, setOption] = useState(status);
-      let change = (event) => {
-        console.log(event.target);
+      const change = (event) => {
         setOption(event.target.value);
       };
   return (
@@ -25,6 +24,7 @@ function Card({status}) {
                 <option value="DONE">DONE</option>
             </select>
         </div>
+        
     </div>
   );
 }
